@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-shuffle-performance.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-shuffle-performance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-shuffle-performance_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-shuffle-performance_main.iml" group="spark-shuffle-performance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-shuffle-performance_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-shuffle-performance_test.iml" group="spark-shuffle-performance" />
+    </modules>
+  </component>
+</project>
